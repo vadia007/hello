@@ -1,0 +1,6 @@
+name = Ctools_plugin
+description = Ctools_plugin description
+core = 7.x
+dependencies[] = ctools
+dependencies[] = panels
+files[] = ctools_pl.module
